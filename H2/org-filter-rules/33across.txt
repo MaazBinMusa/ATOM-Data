@@ -1,0 +1,4 @@
+||33across.com^
+||tynt.com^
+/tracking/tynt_
+/tynt.js
